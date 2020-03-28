@@ -38,7 +38,7 @@ function Game ({ toggleTheme }) {
                 <SwitchView>
                     <div>Level: {level}</div>
                     <div>
-                        Theme mode: <Switch onClick={toggleTheme} />
+                        Toggle Dark Mode: <Switch onClick={toggleTheme} />
                     </div>
                 </SwitchView>
                 <Field
