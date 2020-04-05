@@ -2134,7 +2134,7 @@ clone-deep@^2.0.1:
   dependencies:
     for-own "^1.0.0"
     is-plain-object "^2.0.4"
-    kind-of "^6.0.0"
+    kind-of "^6.0.3"
     shallow-clone "^1.0.0"
 
 co@^4.6.0:
@@ -4602,7 +4602,7 @@ is-accessor-descriptor@^1.0.0:
   resolved "https://registry.yarnpkg.com/is-accessor-descriptor/-/is-accessor-descriptor-1.0.0.tgz#169c2f6d3df1f992618072365c9b0ea1f6878656"
   integrity sha512-m5hnHTkcVsPfqx3AKlyttIPb7J+XykHvJP2B9bZDjlhLIoEq4XoK64Vg7boZlVWYK6LUY94dYPEE7Lh0ZkZKcQ==
   dependencies:
-    kind-of "^6.0.0"
+    kind-of "^6.0.3"
 
 is-arrayish@^0.2.1:
   version "0.2.1"
@@ -4669,7 +4669,7 @@ is-data-descriptor@^1.0.0:
   resolved "https://registry.yarnpkg.com/is-data-descriptor/-/is-data-descriptor-1.0.0.tgz#d84876321d0e7add03990406abbbbd36ba9268c7"
   integrity sha512-jbRXy1FmtAoCjQkVmIVYwuuqDFUbaOeDjmed1tOGPrsMhtJA4rD9tkgA0F1qJ3gRFRXcHYVkdeaP50Q5rE/jLQ==
   dependencies:
-    kind-of "^6.0.0"
+    kind-of "^6.0.3"
 
 is-date-object@^1.0.1:
   version "1.0.1"
@@ -4692,7 +4692,7 @@ is-descriptor@^1.0.0, is-descriptor@^1.0.2:
   dependencies:
     is-accessor-descriptor "^1.0.0"
     is-data-descriptor "^1.0.0"
-    kind-of "^6.0.2"
+    kind-of "^6.0.3"
 
 is-directory@^0.3.1:
   version "0.3.1"
@@ -5558,9 +5558,9 @@ kind-of@^5.0.0:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-5.1.0.tgz#729c91e2d857b7a419a1f9aa65685c4c33f5845d"
   integrity sha512-NGEErnH6F2vUuXDh+OlbcKW7/wOcfdRHaZ7VWtqCztfHri/++YKmP51OdWeGPuqCOba6kk2OTe5d02VmTB80Pw==
 
-kind-of@^6.0.0, kind-of@^6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
+kind-of@^6.0.0, kind-of@^6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.3.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
   integrity sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA==
 
 kleur@^2.0.1:
@@ -5910,7 +5910,7 @@ micromatch@^3.1.10, micromatch@^3.1.4, micromatch@^3.1.8, micromatch@^3.1.9:
     extend-shallow "^3.0.2"
     extglob "^2.0.4"
     fragment-cache "^0.2.1"
-    kind-of "^6.0.2"
+    kind-of "^6.0.3"
     nanomatch "^1.2.9"
     object.pick "^1.3.0"
     regex-not "^1.0.0"
@@ -6119,7 +6119,7 @@ nanomatch@^1.2.9:
     extend-shallow "^3.0.2"
     fragment-cache "^0.2.1"
     is-windows "^1.0.2"
-    kind-of "^6.0.2"
+    kind-of "^6.0.3"
     object.pick "^1.3.0"
     regex-not "^1.0.0"
     snapdragon "^0.8.1"
@@ -7621,7 +7621,7 @@ randomatic@^3.0.0:
   integrity sha512-TuDE5KxZ0J461RVjrJZCJc+J+zCkTb1MbH9AQUq68sMhOMcy9jLcb3BrZKgp9q9Ncltdg4QVqWrH02W2EFFVYw==
   dependencies:
     is-number "^4.0.0"
-    kind-of "^6.0.0"
+    kind-of "^6.0.3"
     math-random "^1.0.1"
 
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5:
